@@ -1,2 +1,2 @@
 # create-rails-app-with-postgres-db
-rails new #AppNameHere --database=postgresql
+rails new AppNameHere --database=postgresql
